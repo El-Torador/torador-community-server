@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. Download and run [ArangoDB](https://www.arangodb.com/download-major) database. Do not set any passwords for the database.
+1. Download and run [ArangoDB](https://www.arangodb.com/download-major) database server. Do not set any passwords for the database.
 
 2. run `npm install`
 
